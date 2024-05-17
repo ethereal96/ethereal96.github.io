@@ -1,0 +1,1 @@
+.rodata{display:table}.rodata>li{display:table-row}.rodata>li>*{display:table-cell;padding:5px}.rodata label{font-weight:700;text-align:right}.rodata label:after{content:":"}
